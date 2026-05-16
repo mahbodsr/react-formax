@@ -51,5 +51,10 @@
     "form",
     "form-builder",
     "react-hook-form"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mahbodsr/react-formax.git"
+  },
+  "homepage": "https://github.com/mahbodsr/react-formax#readme"
 }
